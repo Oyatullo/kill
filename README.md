@@ -1,1 +1,1 @@
-# kill
+# rsschool-cv
